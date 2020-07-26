@@ -1,6 +1,7 @@
 
 body{
-    background-color: lightgray;
+    background-color: rgb(199, 199, 199);
+    color: black;
 }
 .container{
     display: flex;
@@ -26,24 +27,21 @@ body{
 .btn{
     height: auto;
     width: 180px;
-    background-color: rgb(65, 179, 0);
+    background-color: rgb(50, 138, 0);
     font-size: 22px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     margin-top: 30px;
     margin-bottom: 30px;
   }
   .footer {
-    position: absolute;
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgb(187, 187, 187);
+    background-color: rgb(173, 173, 173);
     color: white;
     text-align: center;
-    padding-top: 5px;
-    padding-left: 50px;
-    padding-right: 50px;
-  }
+ }
   .text-title{
       font-size: large;
       font-weight: bold;
@@ -52,8 +50,4 @@ body{
     font-size: medium;
     padding-left: 25px;
     padding-right: 25px;
-}
-.container-footer{
-  position: relative;
-  min-height: 100vh;
 }
