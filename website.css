@@ -51,4 +51,5 @@ body{
     padding-left: 25px;
     padding-right: 25px;
 }
- * {cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym49.cur), auto !important;}
+.heart
+{cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym49.cur), auto !important;}
