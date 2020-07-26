@@ -1,7 +1,7 @@
 
 body{
-    background-color: rgb(214, 214, 214);
-    color: rgb(54, 54, 54);
+    background-color: rgb(230, 230, 230);
+    color: rgb(63, 63, 63);
 }
 .container{
     display: flex;
@@ -50,4 +50,8 @@ body{
     font-size: medium;
     padding-left: 25px;
     padding-right: 25px;
+}
+
+.cust-cursor{
+  cursor: url('images/heart.svg');
 }
